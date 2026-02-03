@@ -1,0 +1,100 @@
+Research Assignment: Introduction to Machine Learning
+
+Name: Abdinajib Hussein Mohamed 
+ Assignment one :  Introduction to Machine Learning:-
+
+1. Definition of Machine Learning with a Real-Life Example
+
+Machine Learning (ML) refers to a computational approach in which systems improve their performance on a task by analyzing data and identifying patterns, rather than relying on explicitly programmed rules. According to Mitchell (1997), a computer program is said to learn from experience if its performance improves with experience over time.
+
+Real-Life Example: Credit Risk Assessment
+
+In the banking sector, machine learning is widely used to assess credit risk. Instead of using fixed rules (such as “reject all applicants below a certain income”), ML models are trained on historical loan data that include applicant characteristics (income, employment history, repayment behavior) and outcomes (loan repaid or defaulted). By learning from these past examples, the model can estimate the probability that a new applicant will repay a loan. This data-driven approach enables more accurate and fair decision-making compared to traditional rule-based systems.
+
+2. Comparison Between Supervised and Unsupervised Learning
+
+Machine learning techniques can be broadly categorized based on whether labeled outcomes are available during training.
+
+Supervised Learning
+
+Supervised learning involves training an algorithm using a dataset where the correct outputs are known. The algorithm learns a relationship between input variables and output labels and uses this learned relationship to make predictions on new data.
+
+Example:
+Predicting energy consumption in buildings based on temperature, time of day, and occupancy. Historical data contain both the input variables and the actual energy usage values, allowing the model to learn how consumption changes under different conditions.
+
+Unsupervised Learning
+
+Unsupervised learning uses datasets that do not contain predefined labels. The objective is to discover underlying structure or relationships within the data without external guidance.
+
+Example:
+Analyzing traffic flow data from a city to identify common congestion patterns. The algorithm groups similar traffic behaviors together, helping planners understand peak congestion zones without having prior labels defining those zones.
+
+Aspect	Supervised Learning	Unsupervised Learning
+
+Data labeling	Required	Not required
+Main objective	Prediction	Pattern discovery
+Typical output	Known target values	Groups or structures
+
+
+
+---
+
+3. Causes of Overfitting and Prevention Methods
+
+Causes of Overfitting
+
+Overfitting occurs when a machine learning model learns the training data too precisely, including random noise and irrelevant details. This typically happens when the model is excessively complex compared to the size and quality of the dataset. As a result, the model achieves high accuracy on training data but performs poorly on new, unseen data.
+
+Prevention Techniques
+
+Several techniques are commonly used to reduce overfitting:
+
+Regularization: Penalizing overly complex models to limit extreme parameter values.
+
+Cross-Validation: Evaluating the model across multiple subsets of data to ensure stable performance.
+
+Feature Selection: Removing irrelevant or redundant features that add noise.
+
+Increasing Dataset Size: More data helps the model learn general patterns rather than memorizing examples.
+
+
+These techniques improve the model’s ability to generalize beyond the training dataset.
+
+
+---
+
+4. Training and Test Data Split and Its Importance
+
+In machine learning, datasets are typically divided into training data and test data. The training set is used to build the model, while the test set is reserved for evaluating its performance on unseen data.
+
+This separation is essential because evaluating a model on the same data used for training can lead to misleading conclusions. A model may appear accurate simply because it memorized the training data rather than learned generalizable patterns. By testing on separate data, researchers can better estimate how the model will perform in real-world scenarios.
+
+Common practice involves allocating 70–80% of the data for training and the remainder for testing, depending on dataset size and problem complexity.
+
+
+---
+
+5. Case Study: Machine Learning in Healthcare
+
+Case Study: Early Detection of Sepsis Using Machine Learning
+
+A notable application of machine learning in healthcare is the early detection of sepsis, a life-threatening medical condition. Research published in Nature Medicine demonstrated that ML models trained on electronic health record data could identify early warning signs of sepsis hours before clinical diagnosis.
+
+The study analyzed physiological signals such as heart rate, blood pressure, and laboratory results. By learning patterns from thousands of patient records, the model was able to predict sepsis onset earlier than traditional rule-based systems. The findings showed that machine learning has the potential to support clinicians by providing timely alerts, improving patient outcomes, and reducing mortality rates.
+
+
+---
+
+References
+
+1. Mitchell, T. M. (1997). Machine Learning. McGraw-Hill.
+
+2. Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
+
+3. Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+
+4. Wikipedia contributors. “Overfitting.” Wikipedia.
+
+5. Wikipedia contributors. “Supervised learning” and “Unsupervised learning.” Wikipedia.
+
+6. Henry, K. E., et al. (2015). “A targeted real-time early warning score for sepsis detection.” Nature Medicine.
