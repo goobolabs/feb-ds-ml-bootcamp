@@ -3,8 +3,10 @@ Welcome to my repository! This space showcases my journey through the Data Scien
 
 👤 Student Information
 - Full Name: Abdinajib Hussein Mohamed
+
 📁 Repository Layout
 - Each directory corresponds to a unique assignment
 - Contents include source code, explanations, and supporting documentation
+
 🚫 Important Notice
 This repository is for personal academic use. Kindly refrain from altering or editing its contents.
