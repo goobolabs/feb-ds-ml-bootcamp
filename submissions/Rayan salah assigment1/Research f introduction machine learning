@@ -1,7 +1,5 @@
-Machine Learning: Concepts, Applications, and Case Studies
-1. Introduction
-Machine Learning (ML) is a subfield of artificial intelligence that enables systems to improve their performance over time based on experience or data, without being explicitly programmed for each task. ML models learn patterns and make predictions, helping automate decision-making in various fields such as healthcare, business, and transportation.
-2. Definition and Real-Life Example
+
+##2. Definition and Real-Life Example##
 Definition:
 Machine Learning is the process by which a machine modifies its structure, program, or stored data based on inputs or experience to improve its expected future performance.
 Real-Life Example:
