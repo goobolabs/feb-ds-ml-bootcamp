@@ -1,0 +1,97 @@
+Name: Abdisalam Salad Ali
+ Assignment one :  Introduction to Machine Learning
+
+Introduction to Machine Learning
+1. Definition of Machine Learning with a Real-Life Example
+Machine Learning (ML) is a branch of AI that allows computers to learn from data and improve automatically through experience. Instead of following fixed rules written by programmers the system studies data and learns how to make decisions by itself.
+Real-Life Example
+Fraud detection in online banking is a good example of machine learning. Banks collect data about transactions such as amount, time, and location. A machine learning model learns what normal transactions look like. When a transaction looks unusual, the system can quickly mark it as suspicious and alert the bank. The more data it sees, the better it becomes at detecting fraud.
+
+2. Supervised Learning and Unsupervised Learning
+Machine learning methods are clasified  based on how data is used.
+Supervised Learning
+Supervised learning uses data where the correct answers are already known.
+	The input data has labels
+	The model learns by comparing its prediction with the correct answer
+	Used when we want clear predictions
+Example:
+Student performance prediction. Past student data (attendance, assignment scores, exam marks) is labeled as pass or fail. The model learns from this data and predicts the result for new students.
+
+Unsupervised Learning
+Unsupervised learning works with data that has no labels.
+	Only input data is given
+	The model finds patterns on its own
+	Used to organize or group data
+Example:
+Music playlist grouping. A system groups songs based on tempo, genre, and listening habits without knowing the group names in advance
+
+Feature
+	Supervised Learning	Unsupervised Learning
+Data labels	Required	No Required
+Output	Known	Unknown
+Purpose	Prediction	Pattern discovery
+Example	Student result prediction	Song grouping
+
+
+3. Overfitting: Causes and Prevention
+Overfitting happens when a machine learning model learns the training data too closely and fails to perform well on new data.
+Causes
+1.	Very complex models that memorize data
+2.	Too little training data
+3.	Many unnecessary input features
+Prevention Methods
+•	Choose simpler models
+•	Use regularization techniques
+•	Apply cross-validation
+•	Increase the size of the dataset
+•	Stop training early
+4. Training Data and Test Data
+To check whether a machine learning model works correctly, data must be divided.
+•	Training data (80%) is used to teach the model
+•	Test data (20%) is used to check performance
+This process is important because it shows how well the model works on new, unseen data.
+Example:
+In a dataset of 500 records, 350 are used for training and 150 for testing. If the model performs well on both, it is learning correctly.
+
+5. Case Study: Machine Learning to Predict Health Facility Deliveries in Somalia
+Title of Study
+Exploring the Application of Machine Learning and SHAP Explanations to Predict Health Facility Deliveries in Somalia (2025)
+Research Context
+In Somalia, maternal and newborn deaths are high because many women do not give birth in health facilities with trained professionals. This study used machine learning to predict which women are likely to give birth in a health facility and identify the factors that influence that choice. 
+Data and Methods
+	The researchers used data from the 2020 Somalia Demographic and Health Survey (SDHS), involving 8,951 women aged 15–49 years. 
+	Seven machine learning algorithms were tested, including:
+a.	Random Forest
+b.	XGBoost
+c.	Gradient Boosting
+d.	Logistic Regression
+e.	Support Vector Machine
+f.	Decision Tree
+g.	K-Nearest Neighbors
+	The models were evaluated based on prediction accuracy, precision, recall, F1-score, and AUROC (a measure of classification quality). 
+	 The study also used SHAP (SHapley Additive exPlanations) to understand which factors most influenced the model’s predictions. SHAP analysis helps explain why the model makes certain predictions.
+
+Main Findings
+•	Random Forest performed the best, achieving the highest accuracy (82%) and AUROC (0.89), meaning it was most effective at correctly predicting whether a woman delivered in a health facility. 
+•	Important predictors of health facility delivery included:
+	Wealth quintile (economic status) — richer women were more likely to use facility delivery services. 
+	Antenatal care attendance — women who attended four or more prenatal visits were more likely to deliver at health facilities. 
+	Urban vs. rural residence — women living in urban areas had higher likelihoods of facility deliveries than those in rural regions.
+Conclusion and Implications
+This study shows that machine learning can accurately predict maternal health behavior in Somalia and help policymakers understand which factors matter most. By identifying women at risk of not delivering in a facility, health programs can target education, transportation support, and prenatal care to improve maternal and newborn outcomes.
+
+Reference for the Case Study
+Sani, J., Halane, S., Ahmed, M. M., et al. (2025). Exploring the application of machine learning and SHAP explanations to predict health facility deliveries in Somalia. Discover Artificial Intelligence, 5, 211.
+
+
+
+
+
+
+
+
+
+
+
+
+
