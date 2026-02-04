@@ -1,5 +1,4 @@
 Machine Learning: Concepts, Methods, and Applications
-
 1. Definition of Machine Learning (with a Real-Life Example)
 
 Machine Learning (ML) is a subfield of Artificial Intelligence that focuses on building computer systems capable of learning patterns from data and improving their performance on a task without being explicitly programmed for every possible situation.
@@ -11,7 +10,6 @@ Real-Life Example: Email Spam Detection
 A common real-life example of machine learning is spam email filtering. Email services such as Gmail collect large datasets of emails labeled as “spam” or “not spam.” A machine learning model is trained on these examples to learn patterns such as suspicious keywords, sender behavior, and message structure.
 Once trained, the system can automatically classify new incoming emails—even ones it has never seen before—based on what it has learned from past data.
 
-⸻
 
 2. Comparison Between Supervised and Unsupervised Learning
 
@@ -33,7 +31,6 @@ Unsupervised Learning Example
 
 Customer segmentation in marketing is an unsupervised learning example. A company may have customer data (age, spending behavior, location) without predefined labels. An unsupervised algorithm groups customers into clusters based on similarities, helping businesses design targeted marketing strategies.
 
-⸻
 
 3. Causes of Overfitting and How to Prevent It
 
@@ -54,7 +51,6 @@ Methods to Prevent Overfitting
 	•	Early stopping during training
 	•	Using more training data
 
-⸻
 
 4. Training Data and Test Data Split
 
@@ -70,7 +66,6 @@ Why This Process Is Necessary
 
 The main purpose of splitting data is to evaluate how well the model generalizes. If a model is tested on the same data it was trained on, performance results would be misleading. Testing on unseen data provides a realistic measure of how the model will perform in real-world situations.
 
-⸻
 
 5. Case Study: Machine Learning in Healthcare
 
@@ -92,10 +87,7 @@ Impact
 
 This study demonstrates how machine learning can support doctors by providing decision-support tools that improve diagnosis accuracy, reduce human error, and enhance patient outcomes.
 
-⸻
 
 Conclusion
 
 Machine learning enables systems to learn from data, identify patterns, and make intelligent decisions. Understanding its types, challenges such as overfitting, proper data handling, and real-world applications is essential for applying ML responsibly and effectively. Through research-based learning, machine learning proves to be a transformative technology across multiple domains, especially healthcare.
-
-

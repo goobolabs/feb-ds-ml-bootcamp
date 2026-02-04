@@ -1,6 +1,9 @@
-# 📁 Assignment Repository – Nashaad Farah Mohamuud
+# 📁 Assignment Repository – Ridwan mohamed rashid
 
 Welcome! This repository contains my assignments for the **Data Science & Machine Learning** program.
+
+## 👨‍🎓 Student
+- **Name:** Ridwan mohamed rashid
 
 ## 📂 Structure
 - Each folder represents a separate assignment  
