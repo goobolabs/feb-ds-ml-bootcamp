@@ -1,0 +1,28 @@
+Student Name: Atika Isse Ali
+Course: Data Science and Machine Learning Bootcamp
+🔬 1. Definition of Machine Learning
+Machine Learning (ML) is a subset of Artificial Intelligence focused on building systems that learn from data and improve their accuracy over time without being explicitly programmed for every specific task.
+ * Real-Life Example: Email Spam Filters. Instead of a person writing a rule for every "junk" word, the system analyzes millions of emails to learn the difference between a legitimate message and a scam based on patterns.
+⚖️ 2. Supervised vs. Unsupervised Learning
+| Feature | Supervised Learning | Unsupervised Learning |
+|---|---|---|
+| Data Type | Uses Labeled data (input + correct answer). | Uses Unlabeled data (input only). |
+| Goal | Predict outcomes or classify data. | Find hidden patterns or structures. |
+| Example | Predicting house prices based on size. | Grouping customers by shopping behavior. |
+📉 3. Overfitting: Causes & Prevention
+Overfitting occurs when a model learns the training data "too well," including its noise and random fluctuations. This makes the model perform perfectly on training data but poorly on new, unseen data.
+ * How to Prevent It:
+   * Simplify the Model: Use fewer parameters to avoid capturing noise.
+   * Data Augmentation: Provide more diverse training data.
+   * Regularization: Apply techniques that penalize overly complex models.
+✂️ 4. Training and Test Data Split
+To evaluate a model accurately, we split the dataset into two parts (commonly an 80/20 or 70/30 ratio):
+ * Training Data: Used to "teach" the model patterns.
+ * Test Data: Used as a final exam to see how the model performs on data it has never seen before.
+ * Why it's necessary: This process ensures the model is actually learning to generalize, not just memorizing the answers.
+🏥 5. Case Study: ML in Healthcare
+Application: Early Detection of Diabetic Retinopathy.
+Summary: Researchers developed deep learning models that analyze retinal images to detect signs of blindness in diabetic patients. By training on thousands of clinical images, the AI can identify microscopic lesions that a human doctor might miss, allowing for early treatment and prevention of vision loss.
+📚 References
+ * Deep Learning and Neural Networks for Healthcare, Scholarly Article.
+ * Introduction to Machine Learning with Python, O'Reilly Media.

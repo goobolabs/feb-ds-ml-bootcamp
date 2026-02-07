@@ -1,0 +1,70 @@
+Age,Gender,Daily_Internet_Hours,Main_Purpose,Sleep_Hours,Productivity_Level
+18,Male,6,Social Media,5,Low
+19,Female,4,Study,7,High
+20,Male,5,Entertainment,6,Medium
+21,Female,3,Study,8,High
+22,Male,7,Social Media,5,Low
+23,Female,4,Work,7,High
+24,Male,6,Entertainment,6,Medium
+25,Female,2,Study,8,High
+26,Male,5,Work,6,Medium
+27,Female,3,Work,7,High
+28,Male,8,Entertainment,5,Low
+29,Female,4,Work,6,Medium
+18,Female,5,Social Media,6,Medium
+19,Male,7,Entertainment,4,Low
+20,Female,,Study,8,High
+21,Male,4,Work,7,High
+22,Female,6,Social Media,,Low
+23,Male,5,Entertainment,6,Medium
+24,Female,2,Study,8,High
+25,Male,4,Work,7,High
+26,Female,6,Social Media,5,Low
+27,Male,3,Work,7,High
+28,Female,5,Entertainment,6,Medium
+29,Male,4,Work,7,High
+18,Male,,Social Media,4,Low
+19,Female,5,Entertainment,6,Medium
+20,Male,4,Study,,High
+21,Female,3,Study,8,High
+22,Male,6,Entertainment,5,Low
+23,Female,4,Work,7,High
+24,Male,5,Social Media,6,Medium
+25,Female,2,Study,8,High
+26,Male,4,Work,7,High
+27,Female,6,Entertainment,5,Low
+28,Male,3,Work,7,High
+29,Female,5,Social Media,6,Medium
+18,Female,4,Study,7,High
+19,Male,6,Entertainment,5,Low
+20,Female,3,Study,,High
+21,Male,5,Work,6,Medium
+22,Female,4,Social Media,6,Medium
+23,Male,7,Entertainment,5,Low
+24,Female,2,Study,8,High
+25,Male,4,Work,7,High
+26,Female,6,Social Media,5,Low
+27,Male,3,Work,7,High
+28,Female,5,Entertainment,6,Medium
+29,Male,4,Work,7,High
+18,Male,6,Social Media,,Low
+19,Female,3,Study,7,High
+20,Male,5,Entertainment,6,Medium
+21,Female,2,Study,8,High
+22,Male,7,Social Media,5,Low
+23,Female,,Work,7,High
+24,Male,6,Entertainment,6,Medium
+25,Female,3,Study,8,High
+26,Male,5,Work,6,Medium
+27,Female,4,Work,7,High
+28,Male,8,Entertainment,5,Low
+29,Female,5,Social Media,6,Medium
+21,Male,6,Entertainment,5,Low
+22,Female,3,Study,7,High
+23,Male,4,,6,Medium
+24,Female,2,Study,8,High
+25,Male,5,Social Media,6,Medium
+26,Female,3,Work,,High
+27,Male,4,Work,7,High
+28,Female,6,Entertainment,5,Low
+29,Male,3,Work,7,High
