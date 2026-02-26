@@ -1,6 +1,6 @@
 🎓 Final Project – ML Model Development & Deployment
 
-Due: 27, March 27, 2026 — 12:00 PM (Africa/Mogadishu / EAT)
+Due: Friday, March 27, 2026 — 12:00 PM (Africa/Mogadishu / EAT)
 
 ---
 
